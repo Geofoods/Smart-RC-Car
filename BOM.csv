@@ -1,11 +1,1 @@
-| Component | Description | Quantity |
-| :--- | :--- | :--- |
-| **Microcontroller** | Arduino Uno | 1 |
-| **Wheels + Motor** | TT motors and wheels | 4 |
-| **Motor Driver** | L298N (or L293D) Motor Driver Module | 1 |
-| **IR Receiver** | IR Receiver + Remote | 1 |
-| **Ultrasonic Sensor** | HC-SR04 Distance Sensor | 1 |
-| **LEDs** | 5mm Red LEDs | 2 |
-| **Resistors** | 220Ω Resistors (for LEDs) | 2 |
-| **Power Supply** | Two AA battery pack and battery holder | 1 |
-| **Misc** | Breadboard, Jumper Wires | - |
+
