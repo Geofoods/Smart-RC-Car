@@ -1,14 +1,14 @@
 # Smart RC Car with Automatic Braking
 
-An Arduino Smart RC Car with an IR receiver/remote system for wireless control, dual LED headlights, and an ultrasonic collision avoidance system for automatic braking.
+An Arduino Smart RC Car with wireless control, dual LED headlights, and an ultrasonic collision avoidance system for automatic braking.
 
 ---
 
 ## Special Features
 
-* **IR Remote Control:** Complete wireless maneuvering (Forward, Backward, Left, Right, Stop) using a standard IR remote.
-* **Automatic Braking System:** Uses an ultrasonic sensor to constantly measure forward distance. If an obstacle is detected, the car automatically brakes to prevent a collision.
-* **Customized Headlights:** Dual bright red LEDs that turn on via the remote to light up the path. This can be used to make turn signals.
+* **IR Remote Control:** Wireless movement using an IR Remote
+* **Automatic Braking System:** Uses an ultrasonic sensor to detect obstacles and automatically stop if an obstacle is in its path
+* **Customized Headlights:** Dual bright red LEDs that you can control
 ---
 
 ## Hardware Requirements
