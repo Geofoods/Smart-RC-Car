@@ -1,6 +1,11 @@
 # Smart RC Car with Automatic Braking
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/Geofoods/Smart-RC-Car/tree/main/PCB)
+
+
 An Arduino Smart RC Car with wireless control, dual LED headlights, and an ultrasonic collision avoidance system for automatic braking.
+<img width="1917" height="852" alt="Screenshot 2026-08-23 210702" src="https://github.com/user-attachments/assets/ca3ed883-1514-4743-9e9f-b10b744e0b5d" />
+<img width="1126" height="704" alt="Screenshot 2026-06-29 085706" src="https://github.com/user-attachments/assets/8fbac135-b036-4be4-93da-071021447422" />
 
 ---
 
