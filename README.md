@@ -31,7 +31,7 @@ An Arduino Smart RC Car with wireless control, dual LED headlights, and an ultra
 
 ### Bill of Materials (BOM)
 
-Since I already bought an arduino kit, I already have some of these parts. However, some of these parts are being used in a different project that I have made so I will need funding to buy the following parts.
+I already own some of these parts, so some of these parts I will not need financing from the grant for some of them
 
  - 4x TT Motor with Tire Wheel Kit ( https://www.amazon.ca/D-FLIFE-Motor-Gearbox-Shaft-200RPM/dp/B0BY859BBP/ref=sr_1_9?crid=Y18THQH4HJ5Y&dib=eyJ2IjoiMSJ9.F8BqoS7gogYt_r94Vu7wRq_s9pAJTWlrU_83c63rmrkG8AJrQ_2_bthTznFyMULOiIK8E9C3tEjsCFggbp4B_LbwC394KocUQpr-fWeMFkl8QZ-11NJJ_8WyDP2pD3qDdKNrsxvUWbRuW7qPl4nJlFIEKERBDfgn3_bs7xKyZWKSIGK_i8kZH3swodmcXMEaS_O-XPrTHfIZ_zpTLyApWSNkn321pjGNi0IwucMkVScUDEtzdgBpUIW4klOFCSpBFN74GAlsyOUTrSahUh1v-4c--bizHgeS3mAlZpjc0lw.bpRRnoPow3XsEwhaY3wL3Zh5BGgiMPgpkZbLm1Yego8&dib_tag=se&keywords=tt+motor+wheels&qid=1782826040&sprefix=tt+motor+wheels%2Caps%2C114&sr=8-9 )
  - Jumper Wires ( https://www.amazon.ca/RGBZONE-120pcs-Multicolored-Dupont-Breadboard/dp/B01M1IEUAF/ref=sr_1_16?crid=1F4V7SQUCFZYJ&dib=eyJ2IjoiMSJ9.azaI7K_ahP3986cjmNobx_dQyibADCpvZYLOPb9z-NfwP6Ncp6oiX-FgQ_yKnwx6E11uTKXZvAkuulx-ZiIBaFxZphKiP1Aro8IvhKVkrNcSRF8GZLJVwoYV7DVDRdkYUm7j7t6Hx-3_cq8eniCTqgZrHlpLO6Ak9CY5emHPyfnudTT5OMXfpD3Oj4zkzmOYe_-1W6drLVWALFkPpHGtajfAvPsD3SD8OIwwvdmS36uCR2BWyIh976PBWt0GeO93tdgwOhLxasOuaZ6_NjcJFaKWbwkVyday-3Lf-GZTH58.OIWJCh3k0iH9qSTg4UlohL3MTXTRelF48iToXNZiUCI&dib_tag=se&keywords=male%2Bto%2Bmale%2Bjumper%2Bwires&qid=1782826414&sprefix=male%2Bto%2Bmale%2Bjumper%2Bwir%2Caps%2C241&sr=8-16&th=1 )
