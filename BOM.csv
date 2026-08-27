@@ -1,0 +1,13 @@
+Category,Component,Description / Listing,Quantity Needed,Price CAD
+Microcontroller,Arduino Uno,UNO R3 Board ATmega328P,1,13.93
+Wheels + Motor,TT Motors and Wheels,4Set DC Electric TT Prewired Gear Motor Wheel Kit,4,18.52
+Motor Driver,L298N Motor Driver,L298N Motor Driver Controller Board Module,1,7.26
+IR Receiver,IR Receiver + Remote,CANADUINO IR Remote Control,1,7.5
+Ultrasonic Sensor,HC-SR04 Distance Sensor,ELEGOO Ultrasonic Distance Sensor Module Kit,1,11.19
+LEDs,5mm Red LEDs,"Eisco Labs Red LED 5mm, Pack of 10",2 needed,10.14
+Resistors,220Ω Resistors,10 Pieces 0.5 Watt 1/2W Resistor (220 Ohm 5%),2 needed,4.99
+Power Supply,2×AA Battery Holder,2 x AA Battery Holder with On/Off Knife Switch,1,2.86
+Misc.,Breadboard,ELEGOO 6PCS 170 tie-Points Mini Breadboard Kit,1 needed,8.54
+Misc.,Jumper Wires,CANADUINO 120 pcs Dupont Breadboard Jumper Wires,1 pack,5.99
+Adhesive,Double-Sided Mounting Tape,BTF-LIGHTING Double Sided Mounting Tape,1,8.49
+,,TOTAL,,=SUM(E2:E12)
